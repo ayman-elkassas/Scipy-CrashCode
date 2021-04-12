@@ -1,0 +1,18 @@
+1.  scipy.cluster	Cluster algorithms are used to vector quantization/ Kmeans.
+2.	scipy.constants	It represents physical and mathematical constants.
+3.	scipy.fftpack	It is used for Fourier transform.
+4.	scipy.integrate	Integration routines
+5.	scipy.interpolation	Interpolation
+6.	scipy.linalg	It is used for linear algebra routine.
+7.	scipy.io	It is used for data input and output.
+8.	scipy.ndimage	It is used for the n-dimension image.
+9.	scipy.odr	Orthogonal distance regression.
+10.	scipy.optimize	It is used for optimization.
+11.	scipy.signal	It is used in signal processing.
+12.	scipy.sparse	Sparse matrices and associated routines.
+13.	scipy.spatial	Spatial data structures and algorithms.
+14.	scipy.special	Special Function.
+15.	scipy.stats	Statistics.
+16.	scipy.weaves	It is a tool for writing.
+
+# Search for each equation
